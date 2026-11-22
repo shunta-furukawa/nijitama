@@ -1,0 +1,15 @@
+/data/
+/build/
+*.db
+*.db-*
+.env
+node_modules/
+dist/
+.DS_Store
+
+/web/standalone/style.css
+.env.*
+*.log
+*.pin
+*.sqlite*
+.local/
